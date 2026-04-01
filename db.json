@@ -1,4 +1,5 @@
-[
+{
+  products: [
   {
     "id": 1,
     "title": "Laptop ACER Aspire 3 A315-56-58EG",
@@ -25,3 +26,5 @@
     "inStock": true
   }
 ]
+
+}
