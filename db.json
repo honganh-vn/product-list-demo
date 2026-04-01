@@ -4,26 +4,226 @@
     "id": 1,
     "title": "Laptop ACER Aspire 3 A315-56-58EG",
     "body": "Intel Core i5-1035G1/4GB/256GB SSD/Windows 11 Home/1.7kg",
-    "price": 25000000,
-    "oldPrice": 37500000,
-    "inStock": true
+    "price": 10990000,
+    "oldPrice": 12500000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/1/200/200"
   },
   {
     "id": 2,
-    "title": "Laptop ACER Aspire 3 A315-56-58EG",
-    "body": "Phiên bản hết hàng - Test Error/Empty State",
-    "price": 25000000,
-    "oldPrice": 37500000,
-    "inStock": false
+    "title": "Laptop ASUS Vivobook 15 X1504VA-NJ070W",
+    "body": "Intel Core i3-1315U/8GB/512GB SSD/Windows 11 Home",
+    "price": 11490000,
+    "oldPrice": 13990000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/2/200/200"
   },
-  // ... Lặp lại tương tự cho đến ID 25
+  {
+    "id": 3,
+    "title": "Laptop HP Pavilion 15-eg2056TU 6K7L1PA",
+    "body": "Intel Core i5-1240P/8GB/512GB SSD/Windows 11 Home",
+    "price": 15990000,
+    "oldPrice": 18500000,
+    "inStock": false,
+    "image": "https://picsum.photos/id/3/200/200"
+  },
+  {
+    "id": 4,
+    "title": "Laptop MSI Modern 14 C11M-011VN",
+    "body": "Intel Core i3-1115G4/8GB/512GB SSD/Windows 11 Home",
+    "price": 9490000,
+    "oldPrice": 11990000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/4/200/200"
+  },
+  {
+    "id": 5,
+    "title": "Laptop Lenovo IdeaPad 3 15ITL6",
+    "body": "Intel Core i5-1135G7/8GB/512GB SSD/Windows 11 Home",
+    "price": 12490000,
+    "oldPrice": 14500000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/5/200/200"
+  },
+  {
+    "id": 6,
+    "title": "MacBook Air M1 2020 8GB/256GB",
+    "body": "Apple M1 chip/8-core CPU/7-core GPU/Retina Display",
+    "price": 18490000,
+    "oldPrice": 21990000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/6/200/200"
+  },
+  {
+    "id": 7,
+    "title": "Laptop GIGABYTE G5 MF-E2VN333SH",
+    "body": "Intel Core i5-12500H/8GB/512GB SSD/RTX 4050",
+    "price": 20990000,
+    "oldPrice": 24990000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/7/200/200"
+  },
+  {
+    "id": 8,
+    "title": "Laptop Dell Vostro 3520 V5I3614W1",
+    "body": "Intel Core i3-1215U/8GB/256GB SSD/Windows 11 Home",
+    "price": 10290000,
+    "oldPrice": 11500000,
+    "inStock": false,
+    "image": "https://picsum.photos/id/8/200/200"
+  },
+  {
+    "id": 9,
+    "title": "Laptop Acer Gaming Aspire 7 A715-76G-59MW",
+    "body": "Intel Core i5-12450H/8GB/512GB SSD/RTX 2050",
+    "price": 14990000,
+    "oldPrice": 17990000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/9/200/200"
+  },
+  {
+    "id": 10,
+    "title": "Laptop ASUS TUF Gaming F15 FX506HF-HN014W",
+    "body": "Intel Core i5-11400H/8GB/512GB SSD/RTX 2050",
+    "price": 16490000,
+    "oldPrice": 19990000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/10/200/200"
+  },
+  {
+    "id": 11,
+    "title": "Laptop HP 15s-fq5078TU 6K798PA",
+    "body": "Intel Core i5-1235U/8GB/512GB SSD/Windows 11 Home",
+    "price": 13990000,
+    "oldPrice": 15500000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/11/200/200"
+  },
+  {
+    "id": 12,
+    "title": "MacBook Pro M2 2022 8GB/256GB",
+    "body": "Apple M2 chip/13.3-inch Retina/Touch Bar",
+    "price": 28490000,
+    "oldPrice": 32990000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/12/200/200"
+  },
+  {
+    "id": 13,
+    "title": "Laptop MSI Katana GF66 12UCK-804VN",
+    "body": "Intel Core i7-12650H/8GB/512GB SSD/RTX 3050",
+    "price": 19490000,
+    "oldPrice": 22990000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/13/200/200"
+  },
+  {
+    "id": 14,
+    "title": "Laptop Lenovo Yoga Slim 7 14ACN6",
+    "body": "AMD Ryzen 7 5800U/16GB/512GB SSD/Windows 11",
+    "price": 17990000,
+    "oldPrice": 21500000,
+    "inStock": false,
+    "image": "https://picsum.photos/id/14/200/200"
+  },
+  {
+    "id": 15,
+    "title": "Laptop Acer Swift 3 SF314-512-56QN",
+    "body": "Intel Core i5-1240P/16GB/512GB SSD/14 inch QHD",
+    "price": 16990000,
+    "oldPrice": 19500000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/15/200/200"
+  },
+  {
+    "id": 16,
+    "title": "Laptop ASUS Vivobook S 14 Flip TP3402VA-LZ118W",
+    "body": "Intel Core i5-13500H/16GB/512GB SSD/Touch screen",
+    "price": 18490000,
+    "oldPrice": 20990000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/16/200/200"
+  },
+  {
+    "id": 17,
+    "title": "Laptop HP Envy x360 13-bf0094TU 76B14PA",
+    "body": "Intel Core i5-1230U/16GB/512GB SSD/Touch screen",
+    "price": 22490000,
+    "oldPrice": 25500000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/17/200/200"
+  },
+  {
+    "id": 18,
+    "title": "Laptop Dell Inspiron 16 5620 N5620-i5P085W",
+    "body": "Intel Core i5-1235U/8GB/512GB SSD/RTX 2050",
+    "price": 18990000,
+    "oldPrice": 21500000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/18/200/200"
+  },
+  {
+    "id": 19,
+    "title": "Laptop Acer Predator Helios Neo 16 PHN16-71-507G",
+    "body": "Intel Core i5-13500HX/16GB/512GB SSD/RTX 4050",
+    "price": 32990000,
+    "oldPrice": 36990000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/19/200/200"
+  },
+  {
+    "id": 20,
+    "title": "Laptop MSI Stealth 15 A13VE-046VN",
+    "body": "Intel Core i7-13620H/16GB/1TB SSD/RTX 4050",
+    "price": 34990000,
+    "oldPrice": 39990000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/20/200/200"
+  },
+  {
+    "id": 21,
+    "title": "MacBook Air M2 2023 15 inch 8GB/256GB",
+    "body": "Apple M2 chip/15.3-inch Liquid Retina Display",
+    "price": 29990000,
+    "oldPrice": 32990000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/21/200/200"
+  },
+  {
+    "id": 22,
+    "title": "Laptop ASUS Zenbook S 13 OLED UX5304VA-NQ125W",
+    "body": "Intel Core i7-1355U/16GB/1TB SSD/OLED screen",
+    "price": 38990000,
+    "oldPrice": 42990000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/22/200/200"
+  },
+  {
+    "id": 23,
+    "title": "Laptop HP Spectre x360 14-ef2030TU 8B3A2PA",
+    "body": "Intel Core i7-1355U/16GB/1TB SSD/Touch screen",
+    "price": 45990000,
+    "oldPrice": 49990000,
+    "inStock": false,
+    "image": "https://picsum.photos/id/23/200/200"
+  },
+  {
+    "id": 24,
+    "title": "Laptop Dell XPS 13 9315 i5-1230U",
+    "body": "Intel Core i5-1230U/8GB/512GB SSD/Windows 11",
+    "price": 24990000,
+    "oldPrice": 28500000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/24/200/200"
+  },
   {
     "id": 25,
-    "title": "Laptop ACER Aspire 3 A315 - End of List",
-    "body": "Sản phẩm cuối cùng để test dừng load more",
-    "price": 25000000,
-    "oldPrice": 37500000,
-    "inStock": true
+    "title": "Laptop Lenovo Legion Pro 5 16IRX8",
+    "body": "Intel Core i7-13700HX/16GB/512GB SSD/RTX 4060",
+    "price": 42990000,
+    "oldPrice": 46990000,
+    "inStock": true,
+    "image": "https://picsum.photos/id/25/200/200"
   }
 ]
 
