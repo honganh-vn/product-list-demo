@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Laptop ACER Aspire 3 A315-56-58EG",
+    "body": "Intel Core i5-1035G1/4GB/256GB SSD/Windows 11 Home/1.7kg",
+    "price": 25000000,
+    "oldPrice": 37500000,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "title": "Laptop ACER Aspire 3 A315-56-58EG",
+    "body": "Phiên bản hết hàng - Test Error/Empty State",
+    "price": 25000000,
+    "oldPrice": 37500000,
+    "inStock": false
+  },
+  // ... Lặp lại tương tự cho đến ID 25
+  {
+    "id": 25,
+    "title": "Laptop ACER Aspire 3 A315 - End of List",
+    "body": "Sản phẩm cuối cùng để test dừng load more",
+    "price": 25000000,
+    "oldPrice": 37500000,
+    "inStock": true
+  }
+]
